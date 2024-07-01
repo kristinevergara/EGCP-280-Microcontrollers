@@ -4,7 +4,7 @@ Welcome to my Microcontrollers Repository, where I've documented my course work 
 
 ## Notice
 
-All lab work presented here is my own, completed as part of coursework at CSUF (California State University, Fullerton). The assignment details and contents belong to the faculty members of the Electrical and Computer Engineering department at CSUF. Distribution or reproduction of this code beyond personal use or viewing by potential employers is strictly prohibited and may constitute plagiarism.
+All lab work presented here is my own, completed as part of coursework at CSUF (California State University, Fullerton). The assignment details and contents belong to the faculty members of the Electrical and Computer Engineering department at CSUF. Distribution or reproduction of this code beyond viewing by potential employers is strictly prohibited and may constitute plagiarism.
 
 ## Usage Disclaimer
 
